@@ -8,9 +8,9 @@
 
 | Name | Contact Info |
 | ----------- | ----------- |
-| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](wm81430n@pace.edu) |
-| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](my76402p@pace.edu) |
-| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](dg52718n@pace.edu) |
+| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](mailto:wm81430n@pace.edu) |
+| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](mailto:my76402p@pace.edu) |
+| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](mailto:dg52718n@pace.edu) |
 
 ## App description
 
