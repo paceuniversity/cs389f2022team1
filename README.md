@@ -1,6 +1,6 @@
 # TEAM 1
 
-# App name TBD
+[# App name]: #
 
 ## Team members
 
@@ -13,7 +13,7 @@
 | David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](dg52718n@pace.edu) |
 
 ## App description
-TBD
+
 
 ## Idea Proposal
 [Idea Proposal](https://docs.google.com/document/d/162kcxaSTWXm7B_YTzX195Zy1zFi4aY-7/edit?usp=sharing&ouid=105590931687126019573&rtpof=true&sd=true)
