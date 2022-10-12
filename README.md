@@ -1,11 +1,16 @@
-# TEAM TOADD team number
+# TEAM 1
 
-## App name
+[## App name]: # 
 
 ## Team members
 
-TOADD names of the team members
-TOADD picture of the team
+| Name | Contact Info |
+| ----------- | ----------- |
+| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](wm81430n@pace.edu) |
+| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](my76402p@pace.edu) |
+| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](dg52718n@pace.edu) |
+
+![Team photo](./Photos/Team_Photo.png)
 
 ## App description
 
