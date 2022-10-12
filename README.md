@@ -1,16 +1,22 @@
-# TEAM TOADD team number
+# TEAM 1
 
-## App name
+[# App name]: #
 
 ## Team members
 
-TOADD names of the team members
-TOADD picture of the team
+![Team photo](./Photos/Team_Photo.png)
+
+| Name | Contact Info |
+| ----------- | ----------- |
+| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](wm81430n@pace.edu) |
+| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](my76402p@pace.edu) |
+| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](dg52718n@pace.edu) |
 
 ## App description
 
+
 ## Idea Proposal
-[Idea Proposal]()
+[Idea Proposal](https://docs.google.com/document/d/162kcxaSTWXm7B_YTzX195Zy1zFi4aY-7/edit?usp=sharing&ouid=105590931687126019573&rtpof=true&sd=true)
 
 ## Calendar
 [Calendar](https://calendar.google.com/calendar/u/0?cid=aXZoMmU3NjhzMjRkdGlxZWYwcXZvbzhxcjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
