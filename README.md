@@ -4,13 +4,13 @@
 
 ## Team members
 
+![Team photo](./Photos/Team_Photo.png)
+
 | Name | Contact Info |
 | ----------- | ----------- |
 | Will Milun | [GitHub](https://github.com/wmilun) \| [Email](wm81430n@pace.edu) |
 | Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](my76402p@pace.edu) |
 | David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](dg52718n@pace.edu) |
-
-![Team photo](./Photos/Team_Photo.png)
 
 ## App description
 TBD
