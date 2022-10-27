@@ -54,11 +54,11 @@
 
 ## Tools & APIs
 
- [![Android Studio](https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo-thumbnail.png)](https://developer.android.com/studio)
- [![Discord](https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png)](https://www.discord.com)
- [![GitHub](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)](https://github.com/)
- [![Firebase](https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png)](https://firebase.google.com/)
- [![Google Drive](https://www.computerhope.com/issues/pictures/google-drive-logo.png)](https://www.google.com/drive/)
+ [![Android Studio](https://miro.medium.com/max/256/1*Qto7UMJ5fRaXPU1Pb7tN6g.png)](https://developer.android.com/studio)
+ [![Discord](https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico)](https://www.discord.com)
+ [![GitHub](https://25y35xxcueanov2s108puszp-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/ext-495.png)](https://github.com/)
+ [![Firebase](https://firebaseopensource.com/logo-small.png)](https://firebase.google.com/)
+ [![Google Drive](https://cdn-1.webcatalog.io/catalog/google-drive/google-drive-icon-filled.png)](https://www.google.com/drive/)
 
 ## Final delivery
 
