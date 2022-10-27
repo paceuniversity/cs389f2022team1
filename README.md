@@ -54,11 +54,11 @@
 
 ## Tools & APIs
 
- [![Android Studio](https://miro.medium.com/max/256/1*Qto7UMJ5fRaXPU1Pb7tN6g.png)](https://developer.android.com/studio)
- [![Discord](https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico)](https://www.discord.com)
- [![GitHub](https://25y35xxcueanov2s108puszp-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/ext-495.png)](https://github.com/)
- [![Firebase](https://firebaseopensource.com/logo-small.png)](https://firebase.google.com/)
- [![Google Drive](https://cdn-1.webcatalog.io/catalog/google-drive/google-drive-icon-filled.png)](https://www.google.com/drive/)
+ <a href="https://developer.android.com/studio"><img src="https://miro.medium.com/max/256/1*Qto7UMJ5fRaXPU1Pb7tN6g.png" alt="Android Studio" width="50"></a>
+ <a href="https://www.discord.com"><img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="Discord" width="50"></a>
+ <a href="https://github.com"><img src="https://25y35xxcueanov2s108puszp-wpengine.netdna-ssl.com/wp-content/uploads/2022/03/ext-495.png" alt="GitHub" width="50"></a>
+ <a href="https://www.google.com/drive"><img src="https://cdn-1.webcatalog.io/catalog/google-drive/google-drive-icon-filled.png" alt="Google Drive" width="50"></a>
+ <a href="https://firebase.google.com"><img src="https://firebaseopensource.com/logo-small.png" alt="Firebase" width="50"></a>
 
 ## Final delivery
 
