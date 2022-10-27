@@ -54,6 +54,12 @@
 
 ## Tools & APIs
 
+ [![Android Studio](https://e7.pngegg.com/pngimages/466/228/png-clipart-android-studio-integrated-development-environment-logo-android-studio-logo-thumbnail.png)](https://developer.android.com/studio)
+ [![Discord](https://w7.pngwing.com/pngs/842/992/png-transparent-discord-computer-servers-teamspeak-discord-icon-video-game-smiley-online-chat-thumbnail.png)](https://www.discord.com)
+ [![GitHub](https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU)](https://github.com/)
+ [![Firebase](https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png)](https://firebase.google.com/)
+ [![Google Drive](https://www.computerhope.com/issues/pictures/google-drive-logo.png)](https://www.google.com/drive/)
+
 ## Final delivery
 
 * [Final presentation]()
