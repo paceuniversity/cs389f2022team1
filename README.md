@@ -27,7 +27,7 @@
 [Product Backlog](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit?usp=sharing)
 
 ## Architecture & Design
-[Architecture & Design]()
+[Architecture & Design](https://docs.google.com/document/d/1NK1kljgZU7Wcs1C823y0GNQ7cXp45jjBI8srulZk_aE/edit?usp=sharing)
 
 ## Process
 
