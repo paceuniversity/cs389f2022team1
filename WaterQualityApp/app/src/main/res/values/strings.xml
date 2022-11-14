@@ -2,4 +2,8 @@
     <string name="app_name">Water Quality App</string>
     <string name="enter_location">Enter location</string>
     <string name="enter">Enter</string>
+    <string name="water_drinkability">Water Drinkability</string>
+    <string name="levels_of_contaminants">Levels of Contaminants</string>
+    <string name="color_representation">Color Representation</string>
+    <string name="dark_mode">Dark Mode</string>
 </resources>
