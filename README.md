@@ -1,6 +1,6 @@
 # TEAM 1
 
-[# App name]: #
+# Droplet
 
 ## Team members
 
@@ -27,14 +27,14 @@
 [Product Backlog](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit?usp=sharing)
 
 ## Architecture & Design
-[Architecture & Design]()
+[Architecture & Design](https://docs.google.com/document/d/1NK1kljgZU7Wcs1C823y0GNQ7cXp45jjBI8srulZk_aE/edit?usp=sharing)
 
 ## Process
 
 ### Sprint 1
 
-* [Sprint planning]()
-* [Scrums]()
+* [Sprint planning](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit#gid=1056044682)
+* [Scrums](https://docs.google.com/document/d/1wy1zbq5GWknJ3M_m_EA01yez1NhxjD5ueJtwcFCHTKs/edit?usp=sharing)
 * [Sprint demo video]()
 * [Sprint retrospective]()
 
