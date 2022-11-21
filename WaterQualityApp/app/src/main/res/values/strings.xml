@@ -6,6 +6,4 @@
     <string name="levels_of_contaminants">Levels of Contaminants</string>
     <string name="color_representation">Color Representation</string>
     <string name="dark_mode">Dark Mode</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
 </resources>
