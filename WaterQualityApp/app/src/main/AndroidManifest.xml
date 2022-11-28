@@ -18,6 +18,27 @@
         android:theme="@style/Theme.WaterQualityApp"
         tools:targetApi="31">
         <activity
+            android:name=".ColorRepresent"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".LevelContaminants"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
+            android:name=".WaterDrinkability"
+            android:exported="false">
+            <meta-data
+                android:name="android.app.lib_name"
+                android:value="" />
+        </activity>
+        <activity
             android:name=".DarkMode"
             android:exported="false">
             <meta-data
