@@ -6,11 +6,11 @@
 
 ![Team photo](./Photos/Team_Photo.png)
 
-| Name | Contact Info |
-| ----------- | ----------- |
-| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](mailto:wm81430n@pace.edu) |
-| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](mailto:my76402p@pace.edu) |
-| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](mailto:dg52718n@pace.edu) |
+| Name | Contact Info | Roles |
+| ----------- | ----------- | ----------- |
+| Will Milun | [GitHub](https://github.com/wmilun) \| [Email](mailto:wm81430n@pace.edu) | Scrum Master |
+| Max Yankowitz | [GitHub](https://github.com/my76402p) \| [Email](mailto:my76402p@pace.edu) | Developer |
+| David Gonzalez | [GitHub](https://github.com/dg52718n) \| [Email](mailto:dg52718n@pace.edu) | Product Owner |
 
 ## App description
 
@@ -36,12 +36,12 @@
 * [Sprint planning](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit#gid=1056044682)
 * [Scrums](https://docs.google.com/document/d/1wy1zbq5GWknJ3M_m_EA01yez1NhxjD5ueJtwcFCHTKs/edit?usp=sharing)
 * [Sprint demo video]()
-* [Sprint retrospective]()
+* [Sprint retrospective](https://docs.google.com/document/d/1kFw4gI-ncNlyMWwpPOCX3662KAulyHKG67Yf5yP7ZkQ/edit?usp=sharing)
 
 ### Sprint 2
 
-* [Sprint planning]()
-* [Scrums]()
+* [Sprint planning](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit#gid=429545016)
+* [Scrums](https://docs.google.com/document/d/1ZH6K_5qTf3Fh5o5j2C6lekbWevmZeVzyTzcF6yjhQDQ/edit?usp=sharing)
 * [Sprint demo video]()
 * [Sprint retrospective]()
 
