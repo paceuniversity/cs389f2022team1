@@ -11,4 +11,6 @@
     <string name="from_your_selected_location">From your selected location:</string>
     <string name="the_rating_is">The rating is:</string>
     <string name="shows_the_freshwater_quality_index_value">Shows the Freshwater Quality Index value</string>
+    <string name="the_contaminants_are">The contaminants are:</string>
+    <string name="the_color_is">The color is:</string>
 </resources>
