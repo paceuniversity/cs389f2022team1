@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 public class HomeFragment extends Fragment {
     public static final String EXTRA_MESSAGE = "com.example.WaterQualityApp.MESSAGE";
-    public View returnedView;
+    private View returnedView;
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
