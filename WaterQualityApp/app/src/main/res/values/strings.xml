@@ -13,4 +13,5 @@
     <string name="shows_the_freshwater_quality_index_value">Shows the Freshwater Quality Index value</string>
     <string name="the_contaminants_are">The contaminants are:</string>
     <string name="the_color_is">The color is:</string>
+    <string name="setting_fragment">Setting Fragment</string>
 </resources>
