@@ -47,14 +47,4 @@ public class DisplayButtons extends Fragment {
 
         return returnedView;
     }
-
-
-    public void sendMessage(View view) {
-        // Do something in response to button
-        //Intent intent = new Intent(this, DarkMode.class);
-        //EditText editText = (EditText) findViewById(R.id.inputBox);
-        //String message = editText.getText().toString();
-        //intent.putExtra(EXTRA_MESSAGE, message);
-       // startActivity(intent);
-    }
 }

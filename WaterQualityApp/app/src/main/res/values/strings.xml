@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Droplet</string>
-    <string name="enter_location">Enter location</string>
+    <string name="enter_zip">Enter a zip code</string>
     <string name="enter">Enter</string>
     <string name="water_drinkability">Water Drinkability</string>
     <string name="levels_of_contaminants">Levels of Contaminants</string>
@@ -8,9 +8,8 @@
     <string name="dark_mode">Dark Mode</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="from_your_selected_location">From your selected location:</string>
+    <string name="from_your_selected_zip_code">From your selected zip code:</string>
     <string name="the_rating_is">The rating is:</string>
     <string name="shows_the_freshwater_quality_index_value">Shows the Freshwater Quality Index value</string>
-    <string name="the_contaminants_are">The contaminants are:</string>
-    <string name="the_color_is">The color is:</string>
+    <string name="contaminant_number">The number of reported contaminants is:</string>
 </resources>
