@@ -1,6 +1,5 @@
 package com.example.waterqualityapp;
 
-import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
 import android.support.v4.view.GravityCompat;
@@ -18,6 +17,10 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener {
     private DrawerLayout drawer;
+
+    public static int numberOfContaminants = 0;
+    public static String zipCode = "";
+    public static WaterQualityEvaluator waterQualityEvaluator = new WaterQualityEvaluator();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
