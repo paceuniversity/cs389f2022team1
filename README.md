@@ -43,7 +43,7 @@
 * [Sprint planning](https://docs.google.com/spreadsheets/d/1C_ajDEnNuAYeAXsaiWrSzfB5pRdDtMqvcJMX2THltSI/edit#gid=429545016)
 * [Scrums](https://docs.google.com/document/d/1ZH6K_5qTf3Fh5o5j2C6lekbWevmZeVzyTzcF6yjhQDQ/edit?usp=sharing)
 * [Sprint demo video]()
-* [Sprint retrospective]()
+* [Sprint retrospective](https://docs.google.com/document/d/1plqxMcXQkSMe0kVlZRkp8W2UCPhst7NynzzqPmKsGis/edit?usp=sharing)
 
 ### Sprint 3
 
