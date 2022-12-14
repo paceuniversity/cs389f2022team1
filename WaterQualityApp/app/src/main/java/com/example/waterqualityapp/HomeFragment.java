@@ -20,6 +20,9 @@ public class HomeFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         returnedView = inflater.inflate(R.layout.fragment_home, container, false);
+
+        EditText zipCodeInput = returnedView.findViewById(R.id.inputBox);
+
         Button button = (Button) returnedView.findViewById(R.id.enter_button);
         button.setOnClickListener(new View.OnClickListener() {
             @Override

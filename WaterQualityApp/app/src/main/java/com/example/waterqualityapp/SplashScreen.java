@@ -15,8 +15,7 @@ public class SplashScreen extends AppCompatActivity {
         setContentView(R.layout.activity_splash_screen);
         VideoView videoView = findViewById(R.id.videoView);
         String videoPath = "android.resource://" + getPackageName() + "/" + R.raw.splash;
-        Uri uri = Uri.parse(videoPath);
-        videoView.setVideoURI(uri);
+        videoView.setVideoPath(videoPath);
         videoView.start();
 
         videoView.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
