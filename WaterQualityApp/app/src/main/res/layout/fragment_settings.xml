@@ -26,7 +26,6 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="309dp"
-        android:background="#2196F3"
         android:onClick="sendMessage"
         android:text="@string/dark_mode"
         android:textSize="24sp"

@@ -19,8 +19,8 @@
             android:layout_height="?attr/actionBarSize"
             android:background="@color/purple_200"
             android:id="@+id/toolbar"
-            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+            android:theme="@style/Theme.MaterialComponents"
+            app:popupTheme="@style/Theme.MaterialComponents"
             android:elevation="4dp"/>
 
         <FrameLayout
