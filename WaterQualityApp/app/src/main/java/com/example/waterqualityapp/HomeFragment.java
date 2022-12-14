@@ -9,6 +9,7 @@ import android.support.v4.app.FragmentTransaction;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.webkit.WebView;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -21,6 +22,8 @@ public class HomeFragment extends Fragment {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         returnedView = inflater.inflate(R.layout.fragment_home, container, false);
         Button button = (Button) returnedView.findViewById(R.id.enter_button);
+        WebView browser = (WebView) returnedView.findViewById(R.id.news_feed);
+        browser.loadUrl("https://www.sciencedaily.com/news/earth_climate/water/");
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
