@@ -37,8 +37,8 @@ public class DisplayButtons extends Fragment {
             @Override
             public void onClick(View v) {
                 Fragment fragment = new LevelContaminants();
-                FragmentManager fragmentManager = getActivity().getSupportFragmentManager();
-                FragmentTransaction fragmentTransaction = fragmentManager.beginTransaction();
+//                FragmentManager fragmentManager = ;
+                FragmentTransaction fragmentTransaction = getFragmentManager().beginTransaction();
                 fragmentTransaction.replace(R.id.fragment_container, fragment);
                 fragmentTransaction.addToBackStack(null);
                 fragmentTransaction.commit();

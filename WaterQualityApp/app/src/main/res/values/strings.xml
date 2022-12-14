@@ -12,5 +12,5 @@
     <string name="the_rating_is">The rating is:</string>
     <string name="shows_the_freshwater_quality_index_value">Shows the Freshwater Quality Index value</string>
     <string name="contaminant_number">The number of reported contaminants is:</string>
-    <string name="current_location_button">Use Current Location</string>
+    <string name="about_paragraph">Droplet is an android app that provides users with information about water contaminants and overall water quality. The app uses data from mytapwater.org to provide users with accurate and up-to-date information about the water in their area. Droplet was created by David Gonzalez, Will Milun, and Max Yankowitz with the goal of empowering individuals to make informed decisions about their water consumption and health. With Droplet, users can easily access information about the quality of their tap water, as well as any potential contaminants that may be present. By using Droplet, users can take an active role in ensuring the safety and quality of their drinking water. Whether you are a concerned homeowner, a traveler, or just someone who wants to be more informed about the water you are drinking, Droplet is the perfect app for you. Give it a try today and see how easy it is to stay on top of your water quality.</string>
 </resources>
