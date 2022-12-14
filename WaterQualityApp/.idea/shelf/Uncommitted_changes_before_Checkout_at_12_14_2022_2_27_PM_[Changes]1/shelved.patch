@@ -1,0 +1,18 @@
+Index: app/src/main/res/values/themes.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><resources xmlns:tools=\"http://schemas.android.com/tools\">\r\n    <!-- Base application theme. -->\r\n    <style name=\"Theme.WaterQualityApp\" parent=\"Theme.AppCompat.Light.NoActionBar\">\r\n        <!-- Primary brand color. -->\r\n        <item name=\"colorPrimary\">@color/purple_500</item>\r\n        <item name=\"colorPrimaryDark\">@color/purple_700</item>\r\n        <item name=\"colorAccent\">@color/teal_200</item>\r\n        <!-- Customize your theme here. -->\r\n        <item name=\"windowActionBar\">false</item>\r\n        <item name=\"windowNoTitle\">true</item>\r\n    </style>\r\n</resources>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/src/main/res/values/themes.xml b/app/src/main/res/values/themes.xml
+--- a/app/src/main/res/values/themes.xml	
++++ b/app/src/main/res/values/themes.xml	
+@@ -1,6 +1,6 @@
+ <resources xmlns:tools="http://schemas.android.com/tools">
+     <!-- Base application theme. -->
+-    <style name="Theme.WaterQualityApp" parent="Theme.AppCompat.Light.NoActionBar">
++    <style name="Theme.WaterQualityApp" parent="Theme.MaterialComponents.Light">
+         <!-- Primary brand color. -->
+         <item name="colorPrimary">@color/purple_500</item>
+         <item name="colorPrimaryDark">@color/purple_700</item>
