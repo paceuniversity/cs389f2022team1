@@ -48,18 +48,20 @@
         app:layout_constraintTop_toBottomOf="@+id/useLocation"
         tools:visibility="invisible" />
 
-    <Button
-        android:id="@+id/useLocation"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+    <WebView
+        android:id="@+id/news_feed"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="1dp"
-        android:background="#228AE1"
-        android:text="@string/current_location_button"
-        android:textSize="12sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toEndOf="@+id/enter_button"
-        app:layout_constraintTop_toBottomOf="@+id/inputBox" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/error_message"
+        />
 
 </android.support.constraint.ConstraintLayout>
