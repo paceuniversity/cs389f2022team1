@@ -37,35 +37,6 @@ public class HomeFragment extends Fragment {
 
         EditText zipCodeInput = returnedView.findViewById(R.id.inputBox);
 
-        LocationManager locationManager = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
-        LocationListener locationListener = new LocationListener() {
-            @Override
-            public void onLocationChanged(Location location) {
-                Geocoder geocoder = new Geocoder(getContext(), Locale.getDefault());
-                List<Address> addresses = null;
-                try {
-                    addresses = geocoder.getFromLocation(location.getLatitude(), location.getLongitude(), 1);
-                } catch (IOException e) {
-                    e.printStackTrace();
-                }
-                String zipCode = addresses.get(0).getPostalCode();
-
-                currentLocationZipCode = zipCode;
-            }
-
-        };
-
-        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, locationListener);
-
-        Button currentLocationButton = (Button) returnedView.findViewById(R.id.useLocation);
-        currentLocationButton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                zipCodeInput.setText(currentLocationZipCode);
-                MainActivity.zipCode = currentLocationZipCode;
-            }
-        });
-
         Button button = (Button) returnedView.findViewById(R.id.enter_button);
         WebView browser = (WebView) returnedView.findViewById(R.id.news_feed);
         browser.loadUrl("https://www.sciencedaily.com/news/earth_climate/water/");
