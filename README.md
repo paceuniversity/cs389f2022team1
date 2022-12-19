@@ -58,7 +58,7 @@
  <a href="https://www.discord.com"><img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="Discord" width="50"></a>
  <a href="https://github.com"><img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" width="50"></a>
  <a href="https://www.google.com/drive"><img src="https://cdn-1.webcatalog.io/catalog/google-drive/google-drive-icon-filled.png" alt="Google Drive" width="50"></a>
- <a href="https://zoom.us"><img src="![image](https://user-images.githubusercontent.com/39629575/208528471-cdf96ed8-4ed5-48b1-a7f7-15855ca5bfa1.png)" alt="Zoom" width="50"></a>
+ <a href="https://zoom.us"><img src="https://user-images.githubusercontent.com/39629575/208528471-cdf96ed8-4ed5-48b1-a7f7-15855ca5bfa1.png" alt="Zoom" width="50"></a>
 
 ## Final delivery
 
